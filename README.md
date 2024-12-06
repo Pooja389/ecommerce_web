@@ -24,8 +24,8 @@ This is a simple e-commerce web application built using Flask. It allows users t
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/Pooja389/ecommerce_web.git
+   cd ecommerce_web
 2. **Set up a virtual environment**
    ```bash
    python -m venv venv
