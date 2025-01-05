@@ -4,6 +4,9 @@ an ecommerce web that will let you buy product with payment processing
 
 This is a simple e-commerce web application built using Flask. It allows users to browse products, add them to a cart, and proceed to checkout. The application features session-based cart management, dynamic pricing, and a streamlined purchase process.
 
+# what you will get
+ click here
+ https://ecommerce-web-kb13.onrender.com
 ---
 
 ## Features 🌟
